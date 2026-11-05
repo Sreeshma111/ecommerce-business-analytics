@@ -1,4 +1,4 @@
-# E-commerce Business Analytics Using Python
+# E-commerce Business Analytics using Python, Pandas, NumPy and Power BI
 
 ## Project Overview
 This project focuses on analyzing the Brazilian Olist E-commerce dataset to understand business performance, customer behavior, sales trends, product performance, payment methods, delivery performance, and customer satisfaction.
@@ -13,6 +13,7 @@ This project focuses on analyzing the Brazilian Olist E-commerce dataset to unde
 
 ## Tools & Technologies
 - Python
+- Power BI
 - Pandas
 - NumPy
 - Matplotlib
